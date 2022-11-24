@@ -1,0 +1,4 @@
+[core]
+    remote = mlflow-dvc
+['remote "mlflow-dvc"']
+    url = s3://score-journey-boluo/data/
